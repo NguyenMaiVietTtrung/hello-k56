@@ -1,2 +1,2 @@
 TT  	Hoten 	MaSV 	Ngaysinh   	phone
-1	a	s	2		09990
+1	Nguyễn Mai Việt Trung	145D4802010115	22/04/1996		0976876582
